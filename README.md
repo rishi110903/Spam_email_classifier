@@ -26,7 +26,7 @@ The dataset used is `spam_ham_dataset.csv`, which contains labeled spam and ham 
 ```bash
 # 1. Clone the repository
 git clone https://github.com/<your-username>/Spam_email_classifier.git
-cd spam-detection-ML
+cd Spam_email_classifier
 
 # 2. Install dependencies
 pip install -r requirements.txt
